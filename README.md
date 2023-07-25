@@ -1,6 +1,6 @@
 # Data Analysis of Sample SuperStore Dataset using Tableau for Visualizations
 
-## Link to Public Tableau Profile https://public.tableau.com/app/profile/megi.xhafka
+### Link to Public Tableau Profile https://public.tableau.com/app/profile/megi.xhafka
 ## Product Performance 
 Click here for more interactivity: [Public Tableau Products Performance Dashboard](https://public.tableau.com/app/profile/megi.xhafka/viz/ProductsPerformance_16881428097460/Epic1-ProductPerformance)
 
